@@ -1,2 +1,2 @@
 # Personnel-Management
-A console personnel management system. Developed as a university project.
+A console personnel management program. Developed as a university project.
